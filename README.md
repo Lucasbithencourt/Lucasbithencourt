@@ -20,9 +20,11 @@
 
 | | |
 |:--|:--|
-| **01 · Desenvolvimento Web** <br> Sites e sistemas vivos: landing pages, apps e painéis, do layout ao banco de dados. | **02 · Tráfego Pago** <br> Dados que viram resultado: campanhas na Meta, verba e relatórios. |
+| **01 · Desenvolvimento Web** <br> Sites e sistemas vivos: landing pages, apps e painéis, do layout ao banco de dados. | **02 · Tráfego Pago** <br> Dados que viram resultado: +20 clientes atendidos e +R$ 50 mil investidos em mídia. |
 | **03 · Social Media** <br> Movimento que para o feed: carrosséis, stories e vídeos curtos. | **04 · Branding** <br> Símbolos que ficam: identidade visual, logo e linguagem da marca. |
 | **05 · Motion Design** <br> A marca em movimento: animações para web, vídeo e redes. | **06 · Impressos** <br> O toque do físico, com a mesma identidade do digital. |
+
+<img src="assets/trafego.jpg" alt="Tráfego pago em números: +1 ano de experiência, +20 clientes atendidos e +R$ 50 mil investidos em mídia. Começou na Agência FEMO, atendendo principalmente clientes da área médica." width="100%">
 
 <img src="assets/h-projetos.jpg" alt="Projetos selecionados" width="100%">
 
